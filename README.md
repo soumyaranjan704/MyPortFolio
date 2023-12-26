@@ -28,3 +28,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 # RUN THIS COMMAND TO BUILD THE DOCS FILE FOR LIVE DEPLOY
  ng b --output-path docs --base-href /MyPortFolio/
+
+ # my live url
+ https://soumyaranjan704.github.io/MyPortFolio/
